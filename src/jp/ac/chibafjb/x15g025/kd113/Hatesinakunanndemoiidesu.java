@@ -1,4 +1,4 @@
-package jp.ac.chibafjb.x15g025.kd101;
+package jp.ac.chibafjb.x15g025.kd113;
 
 public class Hatesinakunanndemoiidesu {
 
@@ -6,7 +6,7 @@ public class Hatesinakunanndemoiidesu {
 		// TODO 自動生成されたメソッド・スタブ
 		int i;
 		for(i=0;i<3;i++){
-			System.out.println("＊（改行）");
+			System.out.println("*");
 		}
 	}
 

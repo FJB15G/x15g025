@@ -1,4 +1,4 @@
-package jp.ac.chibafjb.x15g025.kd101;
+package jp.ac.chibafjb.x15g025.kd114;
 
 public class Supernanndemoiidesu {
 

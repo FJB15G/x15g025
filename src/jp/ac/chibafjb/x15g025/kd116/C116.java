@@ -1,4 +1,4 @@
-package jp.ac.chibafjb.x15g025.kd101;
+package jp.ac.chibafjb.x15g025.kd116;
 
 public class C116 {
 
