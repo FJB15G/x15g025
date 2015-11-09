@@ -1,12 +1,12 @@
-package jp.ac.chibafjb.x15g025.kd101;
+package jp.ac.chibafjb.x15g025.kd103;
 
 public class Mettyananndemoiidesu {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
 		int i;
-		for(i=0;i<10;i++){
-			System.out.println("船橋 太郎（改行）");
+		for(i=1;i<11;i++){
+			System.out.print(i+"船橋 太郎 ");
 		}
 		}
 
