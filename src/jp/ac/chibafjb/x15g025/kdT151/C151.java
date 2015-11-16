@@ -1,8 +1,8 @@
-package jp.ac.chibafjb.x15g025.kdT145;
+package jp.ac.chibafjb.x15g025.kdT151;
 
 import java.util.Scanner;
 
-public class C145 {
+public class C151 {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
