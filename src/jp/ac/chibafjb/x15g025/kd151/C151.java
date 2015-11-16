@@ -1,4 +1,4 @@
-package jp.ac.chibafjb.x15g025.kdT151;
+package jp.ac.chibafjb.x15g025.kd151;
 
 import java.util.Scanner;
 

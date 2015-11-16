@@ -1,4 +1,4 @@
-package jp.ac.chibafjb.x15g025.kdT133;
+package jp.ac.chibafjb.x15g025.kd133;
 
 public class C133 {
 

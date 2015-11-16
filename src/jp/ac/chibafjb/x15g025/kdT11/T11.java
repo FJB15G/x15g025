@@ -1,12 +1,10 @@
-package jp.ac.chibafjb.x15g025.kdT131;
+package jp.ac.chibafjb.x15g025.kdT11;
 
-public class C131 {
+public class T11 {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
-int x;
-x = 10;
-System.out.print(x);
+
 	}
 
 }

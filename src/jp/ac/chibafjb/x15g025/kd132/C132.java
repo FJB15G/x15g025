@@ -1,4 +1,4 @@
-package jp.ac.chibafjb.x15g025.kdT132;
+package jp.ac.chibafjb.x15g025.kd132;
 
 public class C132 {
 
