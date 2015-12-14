@@ -26,8 +26,6 @@ public class C222 {
 			System.out.println("探索値50は、配列score[]に存在しません");
 		}
 	}
-	
-
 }
 class ArrayProc{
 	public static double linerSearch1(double[] s,double o){
