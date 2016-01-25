@@ -47,7 +47,7 @@ class ArrayProc{
 		int l = 0;
 		int h = 4;
 		int m =(l+h)/2;
-		for(l=l;l<=h&data[m]!=s;l=l){
+		for(l=l;l>=h&data[m]!=s;l=l){
 			if(data[m] < s){
 				h = h - 1;
 			}
